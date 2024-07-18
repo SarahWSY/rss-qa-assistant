@@ -1,0 +1,7 @@
+*.txt
+*.json
+*.ipynb
+
+__pycache__/
+archive/
+chroma/
